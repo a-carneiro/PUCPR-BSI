@@ -11,8 +11,8 @@ namespace compilador
             //var equations = args[0];
             //var equations = "((12+)(12+)*)";
             // var equations = "(1 0 /)";
-            var input = "((1 2 +)(1 2 +) *)";
-            //var input = args[0];
+            //var input = "((1 2 +)(1 2 +) *)";
+            var input = args[0];
 
             if (input == null)
             {
