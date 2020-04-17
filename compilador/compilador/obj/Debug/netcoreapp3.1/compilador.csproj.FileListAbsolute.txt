@@ -14,7 +14,6 @@ C:\GitHub\PUCPR-BSI\compilador\compilador\bin\Debug\netcoreapp3.1\compilador.run
 C:\GitHub\PUCPR-BSI\compilador\compilador\bin\Debug\netcoreapp3.1\compilador.runtimeconfig.dev.json
 C:\GitHub\PUCPR-BSI\compilador\compilador\bin\Debug\netcoreapp3.1\compilador.dll
 C:\GitHub\PUCPR-BSI\compilador\compilador\bin\Debug\netcoreapp3.1\compilador.pdb
-C:\GitHub\PUCPR-BSI\compilador\compilador\obj\Debug\netcoreapp3.1\compilador.csprojAssemblyReference.cache
 C:\GitHub\PUCPR-BSI\compilador\compilador\obj\Debug\netcoreapp3.1\compilador.AssemblyInfoInputs.cache
 C:\GitHub\PUCPR-BSI\compilador\compilador\obj\Debug\netcoreapp3.1\compilador.AssemblyInfo.cs
 C:\GitHub\PUCPR-BSI\compilador\compilador\obj\Debug\netcoreapp3.1\compilador.dll
